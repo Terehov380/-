@@ -1,0 +1,22 @@
+﻿  11456.c
+C:\Users\79611\source\repos\kur\1141\11456.c(104,14): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char *(*)[12]"
+C:\Users\79611\source\repos\kur\1141\11456.c(105,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\79611\source\repos\kur\1141\11456.c(106,51): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char *[12]"
+C:\Users\79611\source\repos\kur\1141\11456.c(106,51): warning C4024: SearchByDate: различные типы для формального и фактического параметров 3
+C:\Users\79611\source\repos\kur\1141\11456.c(172,38): warning C4090: функция: разные квалификаторы "const"
+C:\Users\79611\source\repos\kur\1141\11456.c(297,55): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(300,58): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(303,59): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(306,58): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(309,55): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(312,59): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(320,50): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(323,53): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(326,54): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(329,53): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(332,50): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(335,54): warning C4047: return: "base_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\79611\source\repos\kur\1141\11456.c(218): warning C4716: PrintToConsole: должна возвращать значение
+C:\Users\79611\source\repos\kur\1141\11456.c(240): warning C4715: Compare: значение возвращается не при всех путях выполнения
+C:\Users\79611\source\repos\kur\1141\11456.c(228): warning C4716: SaveFile: должна возвращать значение
+  1141.vcxproj -> C:\Users\79611\source\repos\kur\x64\Debug\1141.exe
